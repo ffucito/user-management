@@ -1,1 +1,1 @@
-<?php echo "Apache is working!"; ?>
+<?php phpinfo(); ?>
